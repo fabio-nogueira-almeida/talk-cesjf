@@ -1,57 +1,150 @@
-footer: © Unsigned Integer UG, 2017
-slidenumbers: true
 
-
-# Desenvolvimento mobile
-
-## `diferenças e desafios entre pequenas e grandes cidades`
+# Desenvolvimento `mobile`
 
 ---
 
 # Apresentação
 
-- Fábio
+- Fábio Nogueira de Almeida
 - Vinicius
 
-# Desenvolvimento no Itaú Unibanco
+---
 
-- Desenvolvimento como terceiro no Itaú 
+## Fábio Nogueira de Almeida
+
+![right 60%](apps.png)
+
+- ProDoctor
+- Concrete 
+- FS Security
+- Itaú Unibanco 
+
+---
+
+## Vinicius
+
+---
+
+# Desenvolvimento Nativo
+
+---
+
+# Desenvolvimento Nativo
+	- Prós e cons 
+
+
+
+Pro:
+- Native interface
+- Experience
+- Plataforma mais madura
+- Performance
+- Rapidez na implementação de novas tecnologias do OS
+
+Cons:
+- Tempo de aprendizado da linguagem e framework nas duas plataformas
+
+
+
+---
+
+# Desenvolvimento Híbrido
+
+---
+
+## Desenvolvimento Híbrido
+
+	- Reactive native
+		- Airbnb
+
+	- Flutter
+		- Nubank
+
+	- Prós e cons
+
+Enterprise Early adopted
+
+Pros:
+- Um codebase para iOS, android e web
+- Boa documentação
+- Nova linguagem para o futuro sucessor do android
+- Google por trás
+
+
+Cons:
+- Desenvolvimentos menos experientes 
+- Linguagem Dart
+
+
+
+---
+
+## Diferença entre nativo x híbrido
+
+---
+
+# Desenvolvimento no `Itaú Unibanco`
+
+---
+
+## Tempos de consultoria
+
 	- Times
 	- Linguagens / migrações / 
 		- kony -> Objective C -> Swift / kony -> java -> kotlin
-- Tecnologias hoje
+
+---
+
+## Time Autenticação
 
 
-# Desenvolvimento Mobile
-
-- Desenvolvimento nativo  
-	- Prós e cons 
-
-- Desenvolvimento híbrido
-	- Reactive native
-		- Airbnb
-	- Flutter
-		- Nubank
-	- Prós e cons
 
 
-- diferença entre nativo x hibrido
+
+Tecnologias
+- Itaú
+    - Objective C / Swift
+    - Java / Kotlin
+    - Javascript
+    - Java
+    - C#
+    - Cobal
+    - React
+    - MOBILE HIBRID
+- 
+
+
+---
 
 # Mercado Mobile
 
+---
+
 # Comunidade
+
+---
 
 # Desafios
 - Inglês
 - Testes unitários
 - Metodologias ágeis
 
+---
 
 # Dicas
 - caelum
 - Curso de stanford iOS
 - Slack Juiz de Fora
 - comunidade
+
+Dicas
+- Caelum
+- Curso de Stanford iOS 
+    - https://itunes.apple.com/br/course/developing-ios-11-apps-with-swift/id1309275316
+- Slack Juiz de Fora
+    - https://devjf.herokuapp.com
+- www.itau.com.br/carreira
+
 ---
 
 
