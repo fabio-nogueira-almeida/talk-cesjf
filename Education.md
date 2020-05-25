@@ -106,7 +106,6 @@
 ## Contras
 - Limitações de performance e funcionalidades
 - Necessidade do conhecimento das plataformas nativas
-- Linguagem Dart
 - Enterprise Early adopted
 
 ---
@@ -121,8 +120,17 @@
 
 # `Itaú Unibanco`
 
+---
+
+# `Itaú Unibanco`
+
 - Consultoria
 - Time Autenticação
+
+---
+
+# `Itaú Unibanco`
+## Tempos de Consultoria
 
 ---
 
@@ -142,9 +150,14 @@
 - Node.js
 - Java
 - Migrações
-	- Kony -> Objective e Java
+	- Kony -> Objective e Java  
 	- Objective C -> Swift
 	- Java -> Kotlin
+
+---
+
+# `Itaú Unibanco`
+## Time Autenticação
 
 ---
 
@@ -154,6 +167,7 @@
 - Time 100+
 - 11 squads
 - Objective C, Swift, Java, Kotlin, C#, Cobal
+- Modularização
 
 ---
 
@@ -180,14 +194,19 @@
 
 # Dicas
 
-- Slack Juiz de Fora
-    - https://devjf.herokuapp.com
-- Curso de Stanford iOS (iTunes ou YouTube )
-- Raywenderlich (Site/blog)
+- Slack Juiz de Fora (https://devjf.herokuapp.com)
+- Slack iOS e Android BR
+- Curso de Stanford iOS (iTunes e YouTube )
+- Ray Wenderlich (Site/blog)
 - www.itau.com.br/carreira
 
 ---
 
 # Contatos
+
+- Fábio Nogueira
+	- Twitter: @fabintk
+	- fna.contact@gmail.com
+
 
 ---
