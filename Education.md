@@ -5,7 +5,7 @@
 
 ## Apresentação
 - Fábio Nogueira de Almeida
-- Vinicius
+- Vinicius Carvalho Marques
 
 ## Tópicos
 - Desenvolvimento Mobile
@@ -13,7 +13,7 @@
 - Comunidade
 
 ---
-
+lkk
 ## Fábio Nogueira de Almeida
 
 ![right 60%](apps.png)
@@ -27,6 +27,12 @@
 
 ## Vinicius
 
+![right 60%](apps.png)
+
+- Itaú Unibanco 
+- Minha CVC
+- Concrete
+
 ---
 
 # Desenvolvimento Nativo
@@ -38,10 +44,12 @@
 ![525%](iosandroid2.jpg)
 
 `Apple`
+
 - Objective C
 - Swift
 
 `Android`
+
 - Java
 - Kotlin
 
@@ -195,9 +203,10 @@
 # Dicas
 
 - Slack Juiz de Fora (https://devjf.herokuapp.com)
-- Slack iOS e Android BR
+- Slack iOS e Android BR (https://iosdevbr.herokuapp.com / https://slack.androiddevbr.org)
 - Curso de Stanford iOS (iTunes e YouTube )
 - Ray Wenderlich (Site/blog)
+- Guia de estudos iOS com trello (https://medium.com/@ronanrodrigo/siga-por-este-caminho-um-guia-de-estudos-sobre-desenvolvimento-de-software-db857c4f04f9)
 - www.itau.com.br/carreira
 
 ---
@@ -208,5 +217,8 @@
 	- Twitter: @fabintk
 	- fna.contact@gmail.com
 
+- Vinicius Carvalho
+    - Twitter: @viniciusc70
+    - viniciuscarvalhom@icloud.com
 
 ---
