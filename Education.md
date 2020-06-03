@@ -13,7 +13,7 @@
 - Comunidade
 
 ---
-lkk
+
 ## Fábio Nogueira de Almeida
 
 ![right 60%](apps.png)
@@ -25,13 +25,14 @@ lkk
 
 ---
 
-## Vinicius
+## Vinicius Carvalho Marques
 
 ![right 60%](apps.png)
 
-- Itaú Unibanco 
-- Minha CVC
+- SAS
 - Concrete
+- Minha CVC
+- Itaú Unibanco 
 
 ---
 
@@ -206,7 +207,7 @@ lkk
 - Slack iOS e Android BR (https://iosdevbr.herokuapp.com / https://slack.androiddevbr.org)
 - Curso de Stanford iOS (iTunes e YouTube )
 - Ray Wenderlich (Site/blog)
-- Guia de estudos iOS com trello (https://medium.com/@ronanrodrigo/siga-por-este-caminho-um-guia-de-estudos-sobre-desenvolvimento-de-software-db857c4f04f9)
+- Guia de estudos iOS com Trello (https://medium.com/@ronanrodrigo/siga-por-este-caminho-um-guia-de-estudos-sobre-desenvolvimento-de-software-db857c4f04f9)
 - www.itau.com.br/carreira
 
 ---
